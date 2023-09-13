@@ -1,3 +1,2 @@
-This is my first commit file!
+This is my first commit!
 
-Updating Master first!

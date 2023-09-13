@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 This is my second commit file!
+=======
+This is my second first!
+>>>>>>> feature
